@@ -1,6 +1,6 @@
 # syllabus
 ## 1일차
- * 교육 안내 및 환경 
+ * 교육 안내 및 환경 (강의자료 참고)
  * [Git 기반의 협업환경 이해](https://github.com/cleancodeclass/listrefactoring)
  * Refactoring 실습 ([Gilded Rose](https://github.com/cleancodeclass/gilded-rose))
 ## 2일차
