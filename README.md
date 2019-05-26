@@ -1,4 +1,8 @@
 # syllabus
+
+## 참고
+ * http://github.com/cleancodeclass
+
 ## 1일차
  * 교육 안내 및 환경 (강의자료 참고)
  * [Git 기반의 협업환경 이해](https://github.com/cleancodeclass/listrefactoring)
