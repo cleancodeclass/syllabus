@@ -1,8 +1,9 @@
 # syllabus
 
 ## 참고
- * http://github.com/cleancodeclass
-
+ * 깃헙 : http://github.com/cleancodeclass
+ * 이클립스 : https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/oxygen/3a/eclipse-jee-oxygen-3a-win32-x86_64.zip
+ * jdk : 
 ## 1일차
  * 교육 안내 및 환경 (강의자료 참고)
  * [Git 기반의 협업환경 이해](https://github.com/cleancodeclass/listrefactoring)
