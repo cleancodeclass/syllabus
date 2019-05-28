@@ -15,7 +15,7 @@
  * TDD 실습([Prime Factor](https://github.com/cleancodeclass/prime-factors), [Baseball](https://github.com/cleancodeclass/baseball))
  * 코드분석 지표의 이해(중복도/복잡도/응집도/결합도/순환참조)
  * [Clean Code 이론](https://github.com/cleancodeclass/cleancode_theory/wiki/Clean-Code)
- * [2일차 ](https://forms.gle/ZFtGe7YMogiGKAuX9)
+ * [2일차 종료설문](https://forms.gle/ZFtGe7YMogiGKAuX9)
 ## 3일차
  * [리팩토링 이론](https://github.com/cleancodeclass/cleancode_theory/wiki/Refactoring)
  * [코드리뷰 퍼실리테이팅](https://github.com/cleancodeclass/cleancode_theory/wiki/Code-Review)
