@@ -20,7 +20,7 @@
  * [리팩토링 이론](https://github.com/cleancodeclass/cleancode_theory/wiki/Refactoring)
  * [코드리뷰 퍼실리테이팅](https://github.com/cleancodeclass/cleancode_theory/wiki/Code-Review)
  * Refactoring 실습([Video Rental](https://github.com/cleancodeclass/video-rental))
- * [3일차 종료설문](https://forms.gle/ZFtGe7YMogiGKAuX9)
+ * [3일차 종료설문](https://forms.gle/EVWqRCTKeQTxaLkT9)
 ## 4일차
  * 성능분석(UI 성능분석)
  * 성능분석(서버 성능분석)
