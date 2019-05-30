@@ -26,6 +26,7 @@
  * 성능분석(서버 성능분석)
  * Unit Test 이론
  * Refactoring 실습([Restaurant Booking](https://github.com/cleancodeclass/restaurant-booking))
+ * [4일차 종료설문](https://forms.gle/PyRCBCHjkDrnzyYA8)
 ## 5일차
  * Spring Framework([Pet Clinic](https://github.com/cleancodeclass/spring-framework-petclinic))
  * 디자인패턴 실습
