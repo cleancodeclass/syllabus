@@ -32,3 +32,4 @@
  * 디자인패턴 실습
  * 과정회고 (설문, 결과)
  * [5일차 종료설문](https://forms.gle/dfpukyWbZwRj8NKm8)
+ * [코드리뷰 문화조사](https://forms.gle/NEpXz1s9E5xHXd449)
