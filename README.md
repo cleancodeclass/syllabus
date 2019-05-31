@@ -34,4 +34,4 @@
  * [5일차 종료설문](https://forms.gle/dfpukyWbZwRj8NKm8)
  * [코드리뷰 문화조사](https://forms.gle/NEpXz1s9E5xHXd449)
 ## 과정종료 설문조사
- * [과정종료 ](https://forms.gle/3H2GGboAr27zfXhV8)
+ * [과정종료 설문조사](https://forms.gle/3H2GGboAr27zfXhV8)
